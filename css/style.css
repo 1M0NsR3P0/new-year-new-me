@@ -16,7 +16,7 @@
 /* Header style */
 .background{
    
-    background-image: url('./images/banner/banner1.png');
+    background-image: url('../images/banner/banner1.png');
     height: 710px;
     width: 100%;
     background-repeat: no-repeat;
